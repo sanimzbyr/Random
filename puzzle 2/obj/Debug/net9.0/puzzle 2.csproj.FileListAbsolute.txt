@@ -1,0 +1,14 @@
+D:\Work\Puzzles\puzzle 2\bin\Debug\net9.0\puzzle 2.exe
+D:\Work\Puzzles\puzzle 2\bin\Debug\net9.0\puzzle 2.deps.json
+D:\Work\Puzzles\puzzle 2\bin\Debug\net9.0\puzzle 2.runtimeconfig.json
+D:\Work\Puzzles\puzzle 2\bin\Debug\net9.0\puzzle 2.dll
+D:\Work\Puzzles\puzzle 2\bin\Debug\net9.0\puzzle 2.pdb
+D:\Work\Puzzles\puzzle 2\obj\Debug\net9.0\puzzle 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Puzzles\puzzle 2\obj\Debug\net9.0\puzzle 2.AssemblyInfoInputs.cache
+D:\Work\Puzzles\puzzle 2\obj\Debug\net9.0\puzzle 2.AssemblyInfo.cs
+D:\Work\Puzzles\puzzle 2\obj\Debug\net9.0\puzzle 2.csproj.CoreCompileInputs.cache
+D:\Work\Puzzles\puzzle 2\obj\Debug\net9.0\puzzle 2.dll
+D:\Work\Puzzles\puzzle 2\obj\Debug\net9.0\refint\puzzle 2.dll
+D:\Work\Puzzles\puzzle 2\obj\Debug\net9.0\puzzle 2.pdb
+D:\Work\Puzzles\puzzle 2\obj\Debug\net9.0\puzzle 2.genruntimeconfig.cache
+D:\Work\Puzzles\puzzle 2\obj\Debug\net9.0\ref\puzzle 2.dll
